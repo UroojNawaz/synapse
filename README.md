@@ -1,2 +1,2 @@
 # synapse
-Sandbox for learning React
+git@github.com:findOctave/synapse.git
