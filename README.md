@@ -1,2 +1,2 @@
 # synapse
-git@github.com:findOctave/synapse.git
+Sandbox for pursuits to learn new tech
